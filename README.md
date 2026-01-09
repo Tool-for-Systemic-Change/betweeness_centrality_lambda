@@ -2,7 +2,7 @@
 
 AWS Lambda package for betweenness centrality calculations, used by the [Tool for Systemic Change](https://github.com/EventideSystems/tool_for_systemic_change) project.
 
-Copyright © 2023 Emily Humphreys and Eventide Systems Pty Ltd. All rights reserved.
+Copyright © 2023 Wicked Lab and Eventide Systems Pty Ltd. All rights reserved.
 
 ## License & Attribution
 
