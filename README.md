@@ -1,3 +1,6 @@
+📌 Archived Source Notice
+This repository contains the version of the source code released by Wicked Lab on 10 December 2023 under an open‑source licence. It has been preserved here in its original form for reference and historical continuity. No further development will occur in this repository, and the code is now considered archived.
+
 # Betweenness Centrality Lambda
 
 AWS Lambda package for betweenness centrality calculations, used by the [Tool for Systemic Change](https://github.com/EventideSystems/tool_for_systemic_change) project.
